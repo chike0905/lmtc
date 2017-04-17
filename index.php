@@ -2,7 +2,9 @@
 <html lang="en">
   <head>
     <meta charset="UTF-8">
-    <title>Take Off Rally 2017 - Keio Univ. SFC Graduate Party -</title>
+    <title>Layout my Torturechamber Official Web Cite</title>
+    <meta name="keywords" content="Layout my Torturechamber,lmtc,バンド,band">
+    <meta name="description" content="エレクトロコアバンドLayout my Torturechamber公式HP 音源、ライブ情報など">
     <meta name="viewport" content="width=device-width,initial-scale=1">
     <link rel="stylesheet" href="style/basscss.css">
     <link rel="stylesheet" href="style/style.css">
@@ -31,13 +33,13 @@
     </style>
   </head>
   <body class="black bg-white center">
-    <nav class="clearfix py2 bg-darken-1 fixed sm-show">
+    <nav class="clearfix py2 bg-darken-3 fixed sm-show">
       <div class="sm-flex center nowrap">
         <div class="flex-auto">
           <a href="#top" class="btn btn-primary black bg-white navbtn">Top</a>
         </div>
         <div class="flex-auto">
-          <a href="#news" class="btn btn-primary black bg-white navbtn">News</a>
+          <a href="#news" class="btn white navbtn">News</a>
         </div>
         <div class="flex-auto">
           <a href="#music" class="btn white navbtn">Music</a>
@@ -54,11 +56,11 @@
         <img src="./img/top.jpg" alt="Layout my Torturechamber" style="width:100%">
     </div>
     <div id="news" class="clearfix py1 px3">
-      <h2>
+      <div class="h1">
          2016.06.16 SHINJUKU CLUB SCIENCE</br>
          Restart
-      </h2>
-      More info is comming soon...
+      </div>
+      <div class="h2">More info is comming soon...</div>
     </div>
     <div id="music" class="px4 py1 center">
       <h2>Music</h2>
