@@ -30,6 +30,22 @@
         width: 100%;
         z-index: 10000;
       }
+      @media screen and (max-width:800px){
+        .movie-wrap {
+          position: relative;
+          padding-bottom: 56.25%;
+          padding-top: 30px;
+          height: 0;
+          overflow: hidden;
+        }
+        .movie-wrap iframe {
+          position: absolute;
+          top: 0;
+          left: 0;
+          width: 100%;
+          height: 100%;
+        }
+      }
     </style>
   </head>
   <body class="black bg-white center">
@@ -65,7 +81,9 @@
     <div id="music" class="px4 py1 center">
       <h2>Music</h2>
       <h3>1st Music Video "wrist"</h3>
+      <div class="movie-wrap">
       <iframe width="560" height="315" src="https://www.youtube.com/embed/mykE-93Uc0Y" frameborder="0" allowfullscreen></iframe>
+      </div>
       <h3>Truth Calling</h3>
       <iframe width="100%" height="166" scrolling="no" frameborder="no" src="https://w.soundcloud.com/player/?url=https%3A//api.soundcloud.com/tracks/269962844%3Fsecret_token%3Ds-OId00&amp;color=ff5500&amp;auto_play=false&amp;hide_related=false&amp;show_comments=true&amp;show_user=true&amp;show_reposts=false"></iframe>
       <h3>All in me</h3>
