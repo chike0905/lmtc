@@ -73,7 +73,7 @@
     </div>
     <div id="news" class="clearfix py1 px3">
       <div class="h1">
-         2016.06.16 SHINJUKU CLUB SCIENCE</br>
+         2017.06.16 SHINJUKU CLUB SCIENCE</br>
          Restart
       </div>
       <div class="h2">More info is comming soon...</div>
