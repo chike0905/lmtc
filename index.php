@@ -76,7 +76,11 @@
          2017.06.16 SHINJUKU CLUB SCIENCE</br>
          Restart
       </div>
-      <div class="h2">More info is comming soon...</div>
+      <div class="h2">
+        Layout my Torturechamber / GO FIGHT GOOD FIGHTERS / WHEN LYLA BRIDE / MUROCK O`CLOCK / FOOLiGANS / EM DOWN<br/>
+        OPEN 17:30 START 18:00  ADV ¥2000 DOOR TBA
+      </div>
+      <img src="./img/flyer.jpg" alt="restart">
     </div>
     <div id="music" class="px4 py1 center">
       <h2>Music</h2>
