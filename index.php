@@ -55,7 +55,7 @@
           <a href="#top" class="btn btn-primary black bg-white navbtn">Top</a>
         </div>
         <div class="flex-auto">
-          <a href="#news" class="btn white navbtn">News</a>
+          <a href="#news" class="btn white navbtn">Live</a>
         </div>
         <div class="flex-auto">
           <a href="#music" class="btn white navbtn">Music</a>
@@ -72,18 +72,74 @@
         <img src="./img/top.jpg" alt="Layout my Torturechamber" style="width:100%">
     </div>
     <div id="news" class="clearfix py1 px3">
-      <div class="h1">
-         2017.06.16 SHINJUKU CLUB SCIENCE</br>
-         Restart
-      </div>
-      <div class="h2">
-        Layout my Torturechamber / GO FIGHT GOOD FIGHTERS / WHEN LYLA BRIDE / MUROCK O`CLOCK / FOOLiGANS / EM DOWN<br/>
-        OPEN 17:30 START 18:00  ADV ¥2000 DOOR TBA
-      </div>
-      <img src="./img/flyer.jpg" alt="restart">
+    <h2>Live</h2>
+    <table class="table-light col-8 mx-auto mb3">
+        <tr>
+            <th class="col-2">Date</th><th class="col-10">2017/8/15(Thu.)</th>
+        </tr>
+        <tr>
+            <th class="col-2">Title</th><th class="col-10">Nobody Dies A Virgin,InFix,ANTIKNOCK pre.【Exist Episodes】</th>
+        </tr>
+        <tr>
+            <th class="col-2">Venue</th><th class="col-10">Shinjuku ANTIKNOCK</th>
+        </tr>
+        <tr>
+            <th class="col-2">Bands</th><th class="col-10">Layout my Torturechamber / Nobody Dies A Virgin / InFix / MASRAO / GIVEN BY THE FLAMES / おしゃめがね / EJECTS</th>
+        </tr>
+        <tr>
+            <th class="col-2">OPEN/START</th><th class="col-10">17:30 / 18:00</th>
+        </tr>
+        <tr>
+            <th class="col-2">ADV/DOOR</th><th class="col-10">2000yen / 2500yen</th>
+        </tr>
+    </table>
+    <table class="table-light col-8 mx-auto mb3">
+        <tr>
+            <th class="col-2">Date</th><th class="col-10">2017/9/10(Sun.)</th>
+        </tr>
+        <tr>
+            <th class="col-2">Title</th><th class="col-10">豆腐メンタルVol.2</th>
+        </tr>
+        <tr>
+            <th class="col-2">Venue</th><th class="col-10">大塚MEETS</th>
+        </tr>
+        <tr>
+            <th class="col-2">Bands</th><th class="col-10">Layout my Torturechamber / Finisaporia / NEO DESIVE MyND and more!</th>
+        </tr>
+        <tr>
+            <th class="col-2">OPEN/START</th><th class="col-10">12:00 / 12:20</th>
+        </tr>
+        <tr>
+            <th class="col-2">ADV/DOOR</th><th class="col-10">1000yen</th>
+        </tr>
+    </table>
+    <table class="table-light col-8 mx-auto mb3">
+        <tr>
+            <th class="col-2">Date</th><th class="col-10">2017/9/20(Wed.)</th>
+        </tr>
+        <tr>
+            <th class="col-2">Title</th><th class="col-10">Zirco Tokyo presents Chased by Ghost of HYDEPARK 【3rd EP "ESCAPE" リリースツアー！】</th>
+        </tr>
+        <tr>
+            <th class="col-2">Venue</th><th class="col-10">Zirco Tokyo</th>
+        </tr>
+        <tr>
+            <th class="col-2">Bands</th><th class="col-10">Layout my Torturechamber / Chased by Ghost of HYDEPARK / SLEEP GOAT CITY / PYGMY / WACALiTY and more!</th>
+        </tr>
+        <tr>
+            <th class="col-2">OPEN/START</th><th class="col-10"> TBA </th>
+        </tr>
+        <tr>
+            <th class="col-2">ADV/DOOR</th><th class="col-10">2000yen / 2800yen</th>
+        </tr>
+    </table>
     </div>
     <div id="music" class="px4 py1 center">
       <h2>Music</h2>
+      <h3>Catch Me If You Can</h3>
+        <div class="movie-wrap">
+            <iframe width="560" height="315" src="https://www.youtube.com/embed/gPANwMoT8a4" frameborder="0" allowfullscreen=""></iframe>
+        </div>
       <h3>1st Music Video "wrist"</h3>
       <div class="movie-wrap">
       <iframe width="560" height="315" src="https://www.youtube.com/embed/mykE-93Uc0Y" frameborder="0" allowfullscreen></iframe>
